@@ -1,14 +1,11 @@
 # Go_learning
 
-<br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/800px-Go_Logo_Blue.svg.png" width=100>
 
-<br>
 
 #### A repo for recording my study on Go language
 
-<br>
 
 ##### Table of Contents
 
@@ -25,12 +22,10 @@
 1. ##### [GoByExample](https://gobyexample.com/)
 2. ##### [Golang History](https://golang.design/history/)
 
-<br>
-<br>
+
 
 # Sections
 
-<br>
 
 ---
 ### Section 1.1
@@ -52,7 +47,7 @@ Go is a statically typed, compiled high-level programming language designed at G
 ----
 #### Setting up the Development Environment
 
-<br>
+
 
 
 1. To install Go on your PC, follow these instructions.( <a href="https://go.dev/doc/install">link</a> )
@@ -61,16 +56,11 @@ Go is a statically typed, compiled high-level programming language designed at G
 
 
 
-
-
-<br>
-<br>
-
 # Todo
 
-:white_check_mark: Setting up the Development Environment
-:white_check_mark: Helloworld
-:white_check_mark: Variables
+:white_check_mark: Setting up the Development Environment<br>
+:white_check_mark: Helloworld<br>
+:white_check_mark: Variables<br>
 :white_check_mark: Datatypes
                    Control Structures
 
